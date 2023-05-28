@@ -1,5 +1,4 @@
 ## express-mongoDB-TodoList
-Todo List made from udemy course: 2021 Complete Web Develoment course from angela yu
 
 ## technologies
 
@@ -13,7 +12,7 @@ Todo List made from udemy course: 2021 Complete Web Develoment course from angel
 
 ## instalation
 ```node.js
-  git clone https://github.com/Leonardpepa/express-mongoDB-TodoList.git
+  git clone https://github.com/aiarts/express-mongoDB-TodoList.git
   run npm instal
   run mongod in the terminal
   run node app.js
@@ -24,5 +23,3 @@ Todo List made from udemy course: 2021 Complete Web Develoment course from angel
   MongoDB
 
 
-## live: https://serene-lowlands-60843.herokuapp.com
-### hosted on heroku with mongoDB ATLAS
